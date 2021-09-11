@@ -9,7 +9,7 @@ pkg install python
 
 rm -rf bxi
 
-git clone https://github.com/binyamin-binni/bxi
+git clone https://github.com/mrperfect0056/fbxi
 
 # Usage
 
