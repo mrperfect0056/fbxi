@@ -12,7 +12,8 @@ logo2 = """
 | mmmmm
 |_______/  \_______/   \___/   \_______/
                                         """
-logo3 =
+logo3 = '\x1b[0;35mkkkkkkkk
+
 print logo2 + logo3
 nmbr = str(random.randint(11111, 99999))
 be = '\x1b[1;93mDEVIL-HACKED'
